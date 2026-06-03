@@ -31,16 +31,14 @@ Downloads
  * File5.lnk
  * File7.dll
  
- Note the folders are still there, just their contents have been moved up to the Downloads location.
+
+<img width="740" height="570" alt="defoldinator" src="https://github.com/user-attachments/assets/d02c2927-7b57-43a2-ae12-000bbbe4d29e" />
 
 
-![defoldinator](https://user-images.githubusercontent.com/13721267/124361070-204b1d80-dbfb-11eb-9e38-dbc98a59f6e8.png)
 
 
 I have added a compiled .exe to make things easier, but obviously don't just trust random strangers on the internet who tell you to run .exes. Here is the file hash for the .exe that I compiled from .ps1 to .exe using [PS2EXE](https://github.com/MScholtes/PS2EXE).
-
-     SHA256          EDCFECEF5217F3B9E3B5C9589E9EC81283DFD479EB5C343DBFB032DFBFD2E807
-
+ 
 I did submit it to VirusTotal and got some false positives but feel free to check for yourself.
 
-https://www.virustotal.com/gui/file/edcfecef5217f3b9e3b5c9589e9ec81283dfd479eb5c343dbfb032dfbfd2e807/detection
+https://www.virustotal.com/gui/file/25211ce734225795cc690138f7b5410ceb0d8d106c40dad8f288d41ea9511b69
